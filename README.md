@@ -133,3 +133,10 @@ The script will:
 3. Train the BiLSTM model with early stopping
 4. Evaluate performance on the test set
 5. Generate a loss curve plot and print precision/recall metrics
+
+## Contact
+
+Loukas Vetoulis - [GitHub Profile](https://github.com/loukas-vetoulis)
+
+Project Link: [https://github.com/loukas-vetoulis/C-SGG-Asteroids-Arcade](https://github.com/loukas-vetoulis/C-SGG-Asteroids-Arcade)
+
