@@ -138,5 +138,5 @@ The script will:
 
 Loukas Vetoulis - [GitHub Profile](https://github.com/loukas-vetoulis)
 
-Project Link: [https://github.com/loukas-vetoulis/C-SGG-Asteroids-Arcade](https://github.com/loukas-vetoulis/C-SGG-Asteroids-Arcade)
+Project Link: [https://github.com/loukas-vetoulis/LSTM-ML-Compare](https://github.com/loukas-vetoulis/LSTM-ML-Compare)
 
